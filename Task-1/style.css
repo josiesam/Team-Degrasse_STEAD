@@ -32,6 +32,11 @@ footer {
   outline: none;
 }
 
+footer > a {
+  position: fixed;
+  bottom: 1.5em;
+}
+
 a {
   color: gold;
 }   
@@ -43,7 +48,7 @@ a {
   justify-content: center;  
   width: 100%;
   position: fixed;
-  bottom: .5em;
+  bottom: 2em;
   outline: none;
 }
 
